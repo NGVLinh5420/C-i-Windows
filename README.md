@@ -1,7 +1,5 @@
 # IDM Activation Script
 # PowerShell
-(Recommended)
-
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter
 *`iex(irm is.gd/idm_reset)`
